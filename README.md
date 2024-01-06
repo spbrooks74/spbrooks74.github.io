@@ -1,6 +1,3 @@
 # spbrooks74.github.io
-## Hello Git File
-<a href="http://spbrooks74.github.io/hello"> Hello Example With index file </a>
-
-## PCDE Activity
+## Repository for Activities 9.1 and 9.2
 <a href="http://spbrooks74.github.io/PCDE-Activity-9.1"> PCDE Activity </a>
